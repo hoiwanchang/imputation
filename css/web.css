@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{margin:0; padding:0;}
+html{ overflow-x:hidden;}
+body{ margin:0; padding:0; color:#333; font-family: "Microsoft YaHei", "STXiHei", "SimHei","SimSun";  background:#FFF; min-width:1000px;}
+div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,blockquote,p{margin:0;padding:0; border:0;}
+fieldset,img {border:0;}
+.clear{ clear:both;}
+article,aside,dialog,footer,header,section,footer,nav,figure,menu{display:block;}  
+img{vertical-align:middle;}
+ul,li,ol {list-style:none;}
+a:link, a{text-decoration:none; outline:none; color:#333; font-family: "Microsoft YaHei";}
+input {border:1px solid #ccc}
+
+/* index */
+.title {width:1000px; height:200px; margin-right:auto; margin-left:auto; margin-top:100px; font-size:30px; font-family:"Times New Roman"; line-height:200px; text-align:center;}
+.table {width:500px; height:400px; margin-right:auto; margin-left:auto; margin-top:0px;}
+.formin {width:100%; height:20px; font-size:15px; line-height:20px; padding-top:15px; padding-bottom:15px}
+.formin #infile {width:280px; height:22px;}
+.formin #email {width:210px; height:22px;}
+.buttom {text-align:center;}
+.buttomset {width:60px; height:25px; background:#DCDCDC; margin-right:10px}
+
+/* work */
