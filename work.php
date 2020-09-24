@@ -50,7 +50,7 @@ try {
     $mail->Host       = 'smtp.exmail.qq.com';                    // Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
     $mail->Username   = 'zhangf@mail.sustech.edu.cn';                     // SMTP username
-    $mail->Password   = 'jngoU3SMDK6vkW75';                               // SMTP password
+    $mail->Password   = '******';                               // SMTP password
     $mail->SMTPSecure = 'ssl';         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` also accepted
     $mail->Port       = 465;                                    // TCP port to connect to
 
